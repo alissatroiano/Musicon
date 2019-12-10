@@ -1,8 +1,14 @@
 # Musicon
-A stylish, multi-page interactive website for an online music store, "Musicon".  
+A stylish, multi-page interactive website for a fictional online music shop, "Musicon".  
 
 # Description
-As an educational project for Codecademy.com's Advanced Design Methods section of the Web Development Track, Musicon was built with HTML, CSS, JavaScript, and Handlebars.
+Musicon was built as an educational project for Codecademy.com's Advanced Design Methods Lesson. The Musicon project challanged students to implement their knowledge of HTML, CSS and Handlebars JS to build a stylish, multi-page interactive website.
+
+# Skills Required
+- HTML
+- CSS
+- JavaScript
+- Handlebars JS
 
 # Authors
 This Project Build: Alissa Troiano
