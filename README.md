@@ -10,7 +10,7 @@ Project: Codecademy.com
 
 # Installation
 To view a live version of this project via Github Pages, visit:
-< >
+https://alissatroiano.github.io/Musicon/
 
 To set up on your local machine:
 - Download project documents
